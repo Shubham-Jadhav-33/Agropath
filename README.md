@@ -8,7 +8,7 @@
 
 
 <div align= "center"> 
-<img src = "./Demo_Images/agro.png" width = 400 height = 250 align = center> <br> <hr> <br>
+<img src = "./S:\Agropath\Demo_Images" width = 400 height = 250 align = center> <br> <hr> <br>
 
 <img src = "./Demo_Images/2.png" width = 400 height = 250> <p>Buyer Homepage</p> <hr>
 
@@ -19,8 +19,7 @@
 </div>
 
 <div align= "center">  
-  
-## <a href = "https://youtu.be/f0YMvE3muIc" > Click Here </a> To Watch Demo Video
+
 
 </div>
 
