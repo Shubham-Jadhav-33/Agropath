@@ -8,7 +8,7 @@
 
 
 <div align= "center"> 
-<img src = "./Demo_Images/1.jpg" width = 400 height = 250 align = center> <br> <hr> <br>
+<img src = "./Demo_Images/1.png" width = 400 height = 250 align = center> <br> <hr> <br>
 
 <img src = "./Demo_Images/2.png" width = 400 height = 250> <p>Buyer Homepage</p> <hr>
 
